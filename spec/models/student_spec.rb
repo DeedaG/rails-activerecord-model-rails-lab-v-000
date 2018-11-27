@@ -10,3 +10,4 @@ RSpec.describe Student, type: :model do
     expect(student).to be_valid
   end
 end
+
